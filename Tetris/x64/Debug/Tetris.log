@@ -1,0 +1,65 @@
+﻿  Colors.cpp
+  Tetris.cpp
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(37,29): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(37,16): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(91,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(91,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(90,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(89,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(95,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(95,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(94,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(93,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(99,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(99,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(98,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(97,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(145,60): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(153,61): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(161,62): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(209,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(210,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(211,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(212,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(287,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(287,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(286,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(285,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(291,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(291,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(290,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(289,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(295,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(295,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(294,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(293,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(314,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(314,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(313,45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(312,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(326,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(325,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(330,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(329,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(334,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(333,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(372,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(372,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(371,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(370,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(376,30): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(376,17): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(375,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(374,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(389,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\stasm\source\repos\Tetris\Tetris.cpp(388,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  block.cpp
+C:\Users\stasm\source\repos\Tetris\block.cpp(52,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  blocks.cpp
+  game.cpp
+  lines.cpp
+  position.cpp
+  Создание кода...
+  Tetris.vcxproj -> C:\Users\stasm\source\repos\Tetris\x64\Debug\Tetris.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
